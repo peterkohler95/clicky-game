@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/charlesbarkley-071717.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/Chris-Paul.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/giannis-antetokounmpo-1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/hi-res-56629856_crop_exact.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/KawhiLeonard.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/main-qimg.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/reggiemiller3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/shaquille-oneal.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/stephen-curry.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/tony-parker.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/usp-nba.jpg",
+    "clicked": false
+  }
+]

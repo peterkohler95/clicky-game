@@ -1,0 +1,19 @@
+.header {
+  background-color: #2C323C;
+  background-image: url("/assets/images/chicago.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  min-height: 400px;
+  padding: 180px 20px; 
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}
